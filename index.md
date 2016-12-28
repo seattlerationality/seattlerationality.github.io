@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <div class="row">
@@ -7,9 +7,6 @@ layout: default
     <h1>Seattle Rationality</h1>
     <p class="lead">Big subtitleish thing!</p>
   </div>
-
-  <p>Here's a <a href="/calendar">calendar</a>.</p>
-
-  <p>Here're our <a href="/lightning-talks">lightning talks</a>.</p>
-
 </div>
+
+Blurb.
