@@ -2,22 +2,14 @@
 layout: default
 ---
 
-<div class="home">
+<div class="row">
+  <div class="col-lg-12 text-center">
+    <h1>Seattle Rationality</h1>
+    <p class="lead">Big subtitleish thing!</p>
+  </div>
 
-  <h1 class="page-heading">Posts</h1>
+  <p>Here's a <a href="/calendar">calendar</a>.</p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p>Here're our <a href="/lightning-talks">lightning talks</a>.</p>
 
 </div>
