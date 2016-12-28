@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Curious about rationality?
+Here are some good entry points:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+* **Readings:** [the Sequences](https://wiki.lesswrong.com/wiki/Original_sequences#Map_and_Territory), [Slate Star Codex](http://slatestarcodex.com)
+* **Discussion hubs:** [our Facebook group](https://www.facebook.com/groups/seattlerationality/), [Bay Area rationality](http://bayrationality.com)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## Curious about us?
+Please feel free to [reach out to us](mailto:{{ site.email }})!
