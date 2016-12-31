@@ -5,10 +5,27 @@ permalink: /about/
 ---
 
 ## Curious about rationality?
-Here are some good entry points:
+The rationalist community gets pretty enthusiastic about...
 
-* **Readings:** [the Sequences](https://wiki.lesswrong.com/wiki/Original_sequences#Map_and_Territory), [Slate Star Codex](http://slatestarcodex.com)
-* **Discussion hubs:** [our Facebook group](https://www.facebook.com/groups/seattlerationality/), [Bay Area rationality](http://bayrationality.com)
+* **Ways to become less wrong:** see
+  [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/),
+  [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/),
+  [Confidence Levels Inside and Outside an Argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/),
+  and
+  [If It's Worth Doing, It's Worth Doing With Made-Up Statistics](http://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/).
+* **Ways to better achieve your goals:** see
+  [Deliberate Once](http://mindingourway.com/deliberate-once/),
+  [Have No Excuses](http://mindingourway.com/have-no-excuses/),
+  and
+  [Rationality Habits I Learned at the CFAR Workshop](http://lesswrong.com/lw/gxr/rationality_habits_i_learned_at_the_cfar_workshop/).
+* **Philosophy, morality:** see
+  [Three Worlds Collide](http://lesswrong.com/lw/y4/three_worlds_collide_08/),
+  [Torture vs. Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/),
+  [Answer to Job](http://slatestarcodex.com/2015/03/15/answer-to-job/),
+  and
+  [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
+
+You might enjoy [Harry Potter and the Methods of Rationality](http://hpmor.com/chapter/1), which is a treatise on all these subjects, packaged as a Harry Potter fanfiction for ease of consumption.
 
 ## Curious about us?
-Please feel free to [reach out to us](mailto:{{ site.email }})!
+Please feel free to ask us questions! [Facebook](https://www.facebook.com/groups/seattlerationality/) and [email](mailto:{{ site.email }}) are both excellent ways to do this.
