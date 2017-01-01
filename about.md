@@ -28,5 +28,13 @@ The rationalist community gets pretty enthusiastic about...
 
 You might enjoy [Harry Potter and the Methods of Rationality](http://hpmor.com/chapter/1), which is a treatise on all these subjects, packaged as a Harry Potter fanfiction for ease of consumption.
 
+And, though it's not inextricable from rationality, there is, <em>de facto</em>, a large overlap between rationalists and effective altruists. People here care a lot about doing good, and, because they're rationalists, doing good *as efficiently as possible*. (Opinions differ on how to achieve that, but
+  [AMF](https://www.againstmalaria.com/),
+  [MIRI](https://intelligence.org/),
+  [MFA](http://www.mercyforanimals.org/),
+  [REG](https://reg-charity.org/),
+  and [GiveWell](http://www.givewell.org/)
+  are popular around here.)
+
 ## Curious about us?
 Please feel free to ask us questions! [Facebook](https://www.facebook.com/groups/seattlerationality/) and [email](mailto:{{ site.email }}) are both excellent ways to do this.
