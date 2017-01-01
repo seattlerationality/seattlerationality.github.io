@@ -10,6 +10,7 @@ The rationalist community gets pretty enthusiastic about...
 * **Ways to become less wrong:** see
   [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/),
   [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/),
+  [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/),
   [Confidence Levels Inside and Outside an Argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/),
   and
   [If It's Worth Doing, It's Worth Doing With Made-Up Statistics](http://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/).
