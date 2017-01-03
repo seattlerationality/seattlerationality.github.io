@@ -14,6 +14,7 @@ Our primary event is a weekly reading group, held on Mondays at 6:30pm in the [P
 The rationalist community is defined by getting enthusiastic about...
 
 * **Ways to become less wrong:** see
+  [Making Beliefs Pay Rent](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/),
   [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/),
   [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/),
   [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/),
