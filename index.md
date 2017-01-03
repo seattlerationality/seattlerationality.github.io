@@ -11,7 +11,7 @@ Our primary event is a weekly reading group, held on Mondays at 6:30pm in the [P
 <!-- Do we *have* other meetings? -->
 
 ## Curious about rationality?
-The rationalist community gets pretty enthusiastic about...
+The rationalist community is defined by getting enthusiastic about...
 
 * **Ways to become less wrong:** see
   [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/),
@@ -34,7 +34,7 @@ The rationalist community gets pretty enthusiastic about...
 
 You might enjoy [Harry Potter and the Methods of Rationality](http://hpmor.com/chapter/1), which is a treatise on all these subjects, packaged as a Harry Potter fanfiction for ease of consumption.
 
-And, though it's not inextricable from rationality, there is, <em>de facto</em>, a large overlap between rationalists and effective altruists. People here care a lot about doing good, and, because they're rationalists, doing good *as efficiently as possible*. (Opinions differ on how to achieve that, but
+And, though it's not inextricable from rationality, there is <em>de facto</em> a large overlap between rationalists and effective altruists. We tend to care a lot about doing good, and, because we're rationalists, we want to do good *as efficiently as possible*. (Opinions differ on how to achieve that, but
   [AMF](https://www.againstmalaria.com/),
   [MIRI](https://intelligence.org/),
   [MFA](http://www.mercyforanimals.org/),
