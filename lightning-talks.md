@@ -4,14 +4,9 @@ title: Lightning Talks
 permalink: /lightning-talks/
 talks:
   - speaker: Spencer Pearson
-    topic: Explore vs. Exploit
+    topic: Forecaster Scores and Surprise
     date: 2016-04-18
-    youtube_code: jhFDyDgMVUI
-  - speaker: Lauren Lee
-    topic: Learning Networks
-    date: 2016-12-19
-    youtube_code: jhFDyDgMVUI
-
+    youtube_code: nxeiOPN7ILk
 ---
 
 Our reading groups often start with somebody giving a short talk. Here are some examples:
