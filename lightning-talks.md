@@ -9,7 +9,7 @@ talks:
     youtube_code: nxeiOPN7ILk
 ---
 
-Our reading groups often start with somebody giving a short talk. Here are some examples:
+Our reading groups start with an opportunity for people to give short talks on things they're excited about. Here are some examples:
 
 {% for talk in page.talks %}
 * **{{talk.topic}}** (by {{talk.speaker}}, on {{talk.date | date:'%Y %b %d'}})

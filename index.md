@@ -3,17 +3,13 @@ layout: page
 display_title: Welcome!
 subtitle: >
   We value truth and self-improvement. <br/>
-  Come become better.
+  Come learn things!
 ---
 
-
-Our primary event is a weekly reading group, held on Mondays at 6:30pm in the [Paul Allen Center for Computer Science](https://www.google.com/maps/place/Paul+G.+Allen+Center+for+Computer+Science+%26+Engineering,+East+Stevens+Way+Northeast,+Seattle,+WA/), in room 403.
-<!-- Do we *have* other meetings? -->
-
 ## Curious about rationality?
-The rationalist community is defined by getting enthusiastic about...
+We get enthusiastic about...
 
-* **Ways to become less wrong:** see
+* **Good belief-forming processes:** see
   [Making Beliefs Pay Rent](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/),
   [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/),
   [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/),
@@ -26,7 +22,7 @@ The rationalist community is defined by getting enthusiastic about...
   [Have No Excuses](http://mindingourway.com/have-no-excuses/),
   and
   [Rationality Habits I Learned at the CFAR Workshop](http://lesswrong.com/lw/gxr/rationality_habits_i_learned_at_the_cfar_workshop/).
-* **Philosophy, morality:** see
+* **Philosophy and morality:** see
   [Three Worlds Collide](http://lesswrong.com/lw/y4/three_worlds_collide_08/),
   [Torture vs. Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/),
   [Answer to Job](http://slatestarcodex.com/2015/03/15/answer-to-job/),
@@ -43,5 +39,12 @@ And, though it's not inextricable from rationality, there is <em>de facto</em> a
   and [GiveWell](http://www.givewell.org/)
   are popular around here.)
 
-## Curious about us?
-Please feel free to ask us questions! [Facebook](https://www.facebook.com/groups/seattlerationality/) and [email](mailto:{{ site.email }}) are both excellent ways to do this.
+## Regular events
+Do you like this kind of stuff? If yes, you should attend our weekly reading group! Each week, we read a few blog posts or articles about the above topics, and get together to discuss them on Monday evening. See [our calendar](/calendar) for information about the upcoming meetings.
+
+After reading group, most of us go to a rationalist house in Madison Park, where dinner is generously provided, and we spend a few hours eating and chatting and playing board games.
+
+<!-- Might wanna link to previous reading notes: http://palegreendot.net/ -->
+<!-- Do we *have* other events? -->
+
+Please, ask us any questions you have! [Facebook](https://www.facebook.com/groups/seattlerationality/) and [email](mailto:{{ site.email }}) are both excellent ways to do this.
