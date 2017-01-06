@@ -28,7 +28,7 @@ We get enthusiastic about...
 
 You might enjoy [Harry Potter and the Methods of Rationality](http://hpmor.com/chapter/1), which is a treatise on all these subjects, packaged as a Harry Potter fanfiction for ease of consumption.
 
-And, though it's not inextricable from rationality, there is <em>de facto</em> a large overlap between rationalists and [effective altruists](https://www.effectivealtruism.org/). We tend to care a lot about doing good, and, because we're rationalists, we want to do good *as efficiently as possible*. (Opinions differ on how to achieve that, but
+And, though it's not inextricable from rationality, there is <em>de facto</em> a large overlap between rationalists and [effective](https://www.effectivealtruism.org/) [altruism](https://www.facebook.com/groups/SeattleEffectiveAltruists/). We tend to care a lot about doing good, and, because we're rationalists, we want to do good *as efficiently as possible*. (Opinions differ on how to achieve that, but
   [AMF](https://www.againstmalaria.com/),
   [MIRI](https://intelligence.org/),
   [MFA](http://www.mercyforanimals.org/),
