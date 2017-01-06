@@ -10,24 +10,21 @@ subtitle: >
 We get enthusiastic about...
 
 * **Good belief-forming processes:** see
-  [Making Beliefs Pay Rent](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/),
-  [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/),
-  [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/),
-  [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/),
-  [Confidence Levels Inside and Outside an Argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/),
-  and
-  [If It's Worth Doing, It's Worth Doing With Made-Up Statistics](http://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/).
+  - [Making Beliefs Pay Rent](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
+  - [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/)
+  - [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/)
+  - [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
+  - [Confidence Levels Inside and Outside an Argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/)
+  - [If It's Worth Doing, It's Worth Doing With Made-Up Statistics](http://slatestarcodex.com/2013/05/02/if-its-worth-doing-its-worth-doing-with-made-up-statistics/)
 * **Ways to better achieve your goals:** see
-  [Deliberate Once](http://mindingourway.com/deliberate-once/),
-  [Have No Excuses](http://mindingourway.com/have-no-excuses/),
-  and
-  [Rationality Habits I Learned at the CFAR Workshop](http://lesswrong.com/lw/gxr/rationality_habits_i_learned_at_the_cfar_workshop/).
+  - [Deliberate Once](http://mindingourway.com/deliberate-once/)
+  - [Have No Excuses](http://mindingourway.com/have-no-excuses/)
+  - [Rationality Habits I Learned at the CFAR Workshop](http://lesswrong.com/lw/gxr/rationality_habits_i_learned_at_the_cfar_workshop/)
 * **Philosophy and morality:** see
-  [Three Worlds Collide](http://lesswrong.com/lw/y4/three_worlds_collide_08/),
-  [Torture vs. Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/),
-  [Answer to Job](http://slatestarcodex.com/2015/03/15/answer-to-job/),
-  and
-  [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
+  - [Three Worlds Collide](http://lesswrong.com/lw/y4/three_worlds_collide_08/)
+  - [Torture vs. Dust Specks](http://lesswrong.com/lw/kn/torture_vs_dust_specks/)
+  - [Answer to Job](http://slatestarcodex.com/2015/03/15/answer-to-job/)
+  - [Meditations on Moloch](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 You might enjoy [Harry Potter and the Methods of Rationality](http://hpmor.com/chapter/1), which is a treatise on all these subjects, packaged as a Harry Potter fanfiction for ease of consumption.
 
