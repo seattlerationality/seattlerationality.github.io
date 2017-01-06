@@ -36,7 +36,7 @@ And, though it's not inextricable from rationality, there is <em>de facto</em> a
   and [GiveWell](http://www.givewell.org/)
   are popular around here.)
 
-## Regular events
+## Want to meet up?
 Do you like this kind of stuff? If yes, you should attend our weekly reading group! Each week, we read a few blog posts or articles about the above topics, and get together to discuss them on Monday evening. See [our calendar](/calendar) for information about the upcoming meetings.
 
 After reading group, most of us go to a rationalist house in Madison Park, where dinner is generously provided, and we spend a few hours eating and chatting and playing board games.
