@@ -11,7 +11,7 @@ We get enthusiastic about...
 
 * **Good belief-forming processes:** see
   - [Making Beliefs Pay Rent](http://lesswrong.com/lw/i3/making_beliefs_pay_rent_in_anticipated_experiences/)
-  - [Neural Categories](http://lesswrong.com/lw/nn/neural_categories/)
+  - [How an Algorithm Feels from the Inside](http://lesswrong.com/lw/no/how_an_algorithm_feels_from_inside/)
   - [Taboo Your Words](http://lesswrong.com/lw/nu/taboo_your_words/)
   - [Knowing About Biases Can Hurt People](http://lesswrong.com/lw/he/knowing_about_biases_can_hurt_people/)
   - [Confidence Levels Inside and Outside an Argument](http://lesswrong.com/lw/3be/confidence_levels_inside_and_outside_an_argument/)
