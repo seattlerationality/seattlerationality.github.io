@@ -42,6 +42,7 @@ Do you like this kind of stuff? If yes, you should attend our weekly reading gro
 After reading group, most of us go to a rationalist house in Madison Park, where dinner is generously provided, and we spend a few hours eating and chatting and playing board games.
 
 <!-- Might wanna link to previous reading notes: http://palegreendot.net/ -->
+<!-- Might wanna link to MIRIx: https://www.facebook.com/groups/SeattleMIRIx/ -->
 <!-- Do we *have* other events? -->
 
 Please, ask us any questions you have! [Facebook](https://www.facebook.com/groups/seattlerationality/) and [email](mailto:{{ site.email }}) are both excellent ways to do this.
