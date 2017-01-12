@@ -28,13 +28,12 @@ We get enthusiastic about...
 
 You might enjoy [Harry Potter and the Methods of Rationality](http://hpmor.com/chapter/1), which is a treatise on all these subjects, packaged as a Harry Potter fanfiction for ease of consumption.
 
-And, though it's not inextricable from rationality, there is <em>de facto</em> a large overlap between rationalists and [effective](https://www.effectivealtruism.org/) [altruism](https://www.facebook.com/groups/SeattleEffectiveAltruists/). We tend to care a lot about doing good, and, because we're rationalists, we want to do good *as efficiently as possible*. (Opinions differ on how to achieve that, but
-  [AMF](https://www.againstmalaria.com/),
-  [MIRI](https://intelligence.org/),
-  [MFA](http://www.mercyforanimals.org/),
-  [REG](https://reg-charity.org/),
-  and [GiveWell](http://www.givewell.org/)
-  are popular around here.)
+Our group also has a lot of overlap with
+  [Seattle Effective Altruists](https://www.facebook.com/groups/SeattleEffectiveAltruists/)
+  and
+  [Seattle MIRIx](https://www.facebook.com/groups/SeattleMIRIx/):
+  though effective altruism and AI research aren't inextricable from rationality, <em>de facto</em> many rationalists are passionate about those things as well.
+
 
 ## Want to meet up?
 Do you like this kind of stuff? If yes, you should attend our weekly reading group! Each week, we read a few blog posts or articles about the above topics, and get together to discuss them on Monday evening. See [our calendar](/calendar) for information about the upcoming meetings.
