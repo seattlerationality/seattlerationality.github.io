@@ -61,3 +61,36 @@ This is the cause of school life's cruelty and boredom: purposelessness.
 The current awful school environment has mostly come about by default. Adults are busy, and don't spend the time or energy to fight back the bureaucracy.
 
 The important thing for nerds to understand is that they aren't losers, just playing a different game. School isn't real life; it's a strange, artificial thing.
+
+
+
+[What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
+-----------------------------------------------------------------
+
+<em>(This was meant to be a high school graduation speech, but the administration vetoed the plan to invite him.)</em>
+
+In high school, you don't have to know what you're going to do with your life. Adults just ask that to get a sense of who you are.
+
+Your first priority should be to get a sense of what the options are. And even more than that-- the world changes quickly, and a lot of today's jobs didn't exist ten years ago. The usual advice of **"don't give up on your dreams"** sucks, because you shouldn't be bound by your current dreams.
+
+**"Don't think you can't do what other people can"** is better, but still wrong. There's some variation in natural ability (although, if there are two explanations in apparent ability, and one of them excuses your laziness, the other one's probably right). You don't know the limits of your abilities, so... how is this helpful?
+
+How about: **"stay upwind."** When you're on a glider, you want to stay upwind of any good landing spots; when you're deciding what to do with your life, stay upwind of good opportunities.
+
+But how are you supposed to tell what good opportunities are? It's hard to tell whether literary theory or math is upwind of the other, because they're both incomprehensible until you get deep into them.
+
+The best protection is working on hard problems. Do things that make you worry you'll do badly.
+
+So: **"work on hard problems."** This doesn't just mean doing well in school: treat school as a day job, avoid wasting time. (You might call time-wasting "hanging out" or "playing" -- well, it's like chocolate cake. Don't *never* do it, but don't do a lot of it.) Extracurriculars also aren't always hard: fundraising for a charity is easy, programming and writing and drawing faces from life are hard.
+
+Treating school as a day job doesn't mean you should rebel. It still matters, and even if you rebel you're being defined by what you're told to do.
+
+School might make you think that doing great things requires lots of discipline. Not so. Lots of people who do great work have little discipline, procrastinate, ignore emails. If you want to do good work, you need a great curiosity for a promising question.
+
+It can be really hard to find a promising question.
+
+You need to find a question that makes the world interesting. To do this, just, say, put in a month of work on a project that interests you and will stretch you. Don't worry if it doesn't seem to be on the path to a goal, but avoid models that excuse laziness.
+
+Go out and learn, actively. This involves finding good books.
+
+The only real difference between adults and high school kids is that adults realize they need to get things done, and high school kids don't. Get to work.
