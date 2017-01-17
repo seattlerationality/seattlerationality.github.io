@@ -2,8 +2,11 @@
 layout: page
 ---
 
-Why Nerds are Unpopular
------------------------
+2016 Jan 16 Reading Notes
+=========================
+
+[Why Nerds are Unpopular](http://paulgraham.com/nerds.html)
+-----------------------------------------------------------
 
 In high school, being smart seems to make kinds unpopular. Why?
 
