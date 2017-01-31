@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Intro
 display_title: Welcome!
 subtitle: >
   We value truth and self-improvement. <br/>
