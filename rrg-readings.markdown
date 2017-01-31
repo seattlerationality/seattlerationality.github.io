@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading Group History
+title: RRG Readings
 meetings:
   - date: 2016-03-14
     readings:
