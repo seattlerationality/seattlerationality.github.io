@@ -29,6 +29,18 @@ blogs:
     feed_url: http://lifeinafreemarket.tumblr.com/rss
     authors:
       - Pasha Kamyshev
+  - name: Almost No One is Evil. Almost Everything is Broken.
+    topic: "\"Do unto others 20% better than you would expect them to do unto you, to correct for subjective error.\" - Linus Pauling"
+    url: https://blog.jaibot.com/
+    feed_url: https://blog.jaibot.com/feed/
+    authors:
+      - Jai Dhyani
+  - name: Hivewired
+    topic: "\"Conversations and meta-discussions on human cognition and social reality.\""
+    url: https://hivewired.wordpress.com/
+    feed_url: https://hivewired.wordpress.com/feed/
+    authors:
+      - Hive Apocrita
   - name: Richard Wu's blog
     topic: "\"This blog is dedicated to all things worth appreciating, be they savory or bittersweet.\""
     url: http://rwu.io/
