@@ -1,0 +1,182 @@
+---
+---
+
+<!-- Adapted from http://startbootstrap.com/template-overviews/bare/ -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>The Button</title>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+  <style>
+
+    body {
+      background-color: black;
+      color: white;
+      text-align: center;
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+  MAD = (function($) {
+
+    var playYoutubeSound = function(v) {
+      $('#ytHider').append($('<iframe width="560" height="315" src="https://www.youtube.com/embed/'+v+'?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>'));
+    }
+    var stopYoutubeSound = function() {
+      $('#ytHider').html('');
+    }
+
+    var playKlaxonSound = function() {playYoutubeSound('aqdMHUfRhW0');}
+    var playPowerDownSound = function() {playYoutubeSound('r8XkxQMLnIc');}
+    var playStaticSound = function() {playYoutubeSound('mExjxvrLR-I');}
+    var playExplosionSound = function() {playYoutubeSound('WNxfYWA08JM');}
+    var playLaunchSound = function() {
+      playYoutubeSound('iBVYZiAp9BI');
+      console.log('played launch sound');
+      setTimeout(function(){playYoutubeSound('iBVYZiAp9BI');}, 100);
+      setTimeout(function(){playYoutubeSound('iBVYZiAp9BI');}, 200);
+      setTimeout(function(){playYoutubeSound('iBVYZiAp9BI');}, 400);
+      setTimeout(function(){playYoutubeSound('iBVYZiAp9BI');}, 900);
+      setTimeout(function(){playYoutubeSound('iBVYZiAp9BI');}, 1000);
+      setTimeout(function(){playYoutubeSound('iBVYZiAp9BI');}, 1200);
+    }
+
+
+    var die = function() {
+      playExplosionSound();
+      playStaticSound();
+      $('body').html(`
+        <div style="position:absolute;z-index:0;left:0;top:0;width:100%;height:100%">
+          <div style="position:absolute;z-index:0;left:0;top:0;width:100%;height:100%">
+            <img src="https://i.ytimg.com/vi/vxNnUU3eRD0/maxresdefault.jpg" style="width:100%;height:100%" alt="[]">
+          </div>
+          <div style="color:black;position:absolute;width:100%">
+            <h1>You lose.</h1>
+            That's it. No more fun. No more talking. Go home.
+          </div>
+        </div>
+      `);
+      $('body').prepend($(`<div style="position:absolute;z-index:0;left:0;top:0;width:100%;height:100%">
+        <img src="https://i.ytimg.com/vi/vxNnUU3eRD0/maxresdefault.jpg" style="width:100%;height:100%" alt="[]">
+      </div>`));
+    };
+
+    var formatTimeForCountdown = function(timeRemaining) {
+      var minutes = Math.floor(timeRemaining/60);
+      var seconds = timeRemaining % 60;
+      return `${minutes}:${(seconds<10) ? '0' : ''}${seconds}`;
+    }
+
+    var startTimer = function() {
+      playKlaxonSound();
+      var button = $('#launchButton');
+      button.prop('disabled', true);
+      button.removeClass('launch-button--ready');
+      button.addClass('launch-button--ticking');
+      var timeRemaining = 60;
+      button.html(`<div class="countdown">${formatTimeForCountdown(timeRemaining)}</div>`);
+      var repeatingTimer = setInterval(function() {
+        timeRemaining = timeRemaining - 1;
+        button.find('.countdown').text(formatTimeForCountdown(timeRemaining));
+        if (timeRemaining < 1) {
+          clearInterval(repeatingTimer);
+          die();
+        }
+      }, 1000);
+    }
+
+    return {
+      die: die,
+      startTimer: startTimer
+    }
+  })(jQuery)
+
+</script>
+
+<style>
+
+    .countdown {
+      color: #aaa;
+      font-size: 0.5em;
+    }
+
+    .launch-button {
+      font-size: 15em;
+      margin: 0.1em;
+      width: 2em;
+      height: 2em;
+
+      font-weight: 900;
+      text-align: center;
+      border-radius: 50%;
+    }
+
+    .launch-button--ready {
+      background-color: #900;
+      color: #400;
+      cursor: pointer;
+
+      border: 1.5px solid #400;
+      box-shadow: 0px 4px #333;
+      transform: rotateX(25deg);
+    }
+
+    .launch-button--ready:active {
+      background-color: #400;
+      color: #000;
+
+      box-shadow: none;
+      transform: translateY(4px) rotateX(25deg);
+    }
+
+    .launch-button--ticking {
+      background-color: #200;
+      color: #ccc;
+
+      border: none;
+      box-shadow: none;
+      transform: translateY(4px) rotateX(25deg);
+    }
+    .launch-button--obsolete {
+      background-color: #200;
+      color: #0b0;
+      border: none;
+    }
+
+</style>
+
+<!-- <div class="row"> -->
+  <!-- <div id="buttonMain" class="col-lg-12 text-center"> -->
+    <button id="launchButton" class="launch-button launch-button--ready" onclick="MAD.startTimer()">&#9762;</button>
+
+  <!-- </div> -->
+
+<!-- </div> -->
+
+<div style="display:none" id="ytHider"></div>
+
+
+
+</body>
+</html>
